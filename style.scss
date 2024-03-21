@@ -53,8 +53,8 @@ main {
     height: auto;
     /* Tilføj maksimal bredde til billedet på desktop */
     @media only screen and (min-width: 768px) {
-        max-width: 20%;
-        max-height: 20%;
+        max-width: 55%;
+        max-height: 55%;
     }
 }
 
